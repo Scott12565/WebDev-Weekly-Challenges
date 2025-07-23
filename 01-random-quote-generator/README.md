@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Random Quote Generator
 
 A simple web app that displays random quotes from a JSON file. Built using vanilla JavaScript and fetch API.
