@@ -22,7 +22,8 @@ stay sharp.
 | # | Folder Name | Level | Description |
 |----|------------------------------|------------|----------------------------------------|
 | 1 | `01-random-quote-generator` | Beginner | Show a random quote on button click, bonus if you use APIs |
-| 2 | `02-mini-todo-list` | Beginner | Create a simple task manager app |
+| 2 | `02-mini-todo-list` | Beginner/Intermediate | Create a simple task manager app |
+| 3 | `03-Responsive hero Section with navbar` | Beginner/Intermediate| Create a Responsive hero Section with navbar and smooth transition|
 
 ---
 
